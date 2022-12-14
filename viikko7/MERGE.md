@@ -1,0 +1,1 @@
+[https://github.com/kivistoilkka/ohtu-miniprojekti/pull/3](https://github.com/kivistoilkka/ohtu-miniprojekti/pull/3)
